@@ -21,7 +21,7 @@
     "E9": 19
   },
   "max_len": 40,
-  "threshold": 0.5,
+  "threshold": 0.8500000000000002,
   "padding_value": 0,
   "model_type": "SimpleRNN",
   "classes": {
